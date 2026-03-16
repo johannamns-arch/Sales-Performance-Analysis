@@ -19,7 +19,7 @@
 ---
 
 ## Dashboard Preview
-![Sales Dashboard](images/sales_dashboard.png)
+![Sales Dashboard](sales_dashboard.png)
 
 ---
 
